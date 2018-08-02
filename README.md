@@ -26,7 +26,7 @@ on the same network.
 3. Install requirememnts
     `$ cd ./stream`
     
-    `$ pip3 install requirements.text`
+    `$ pip3 install requirements.txt`
     All backend dependencies are installed.
     
     `$ cd ../stream-frontend`
